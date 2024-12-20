@@ -5,9 +5,9 @@
  - The laboratory assignments emphasize the use of object-oriented programming constructs in the design and implementation of reasonably large programs.
 
 ## Labs Overview
-- **Lab 1**: Introduction to C++ Programming Environment
-- **Lab 2**: The Pong Game
-- **Lab 3**: The Resistor Network Program
+- **[Lab 1]([url](https://github.com/kylie-ng/ece244/tree/main/lab1))**: Introduction to C++ Programming Environment
+- **[Lab 2]([url](https://github.com/kylie-ng/ece244/tree/main/lab2))**: The Pong Game
+- **[Lab 3]([url](https://github.com/kylie-ng/ece244/tree/main/lab3))**: The Resistor Network Program
 - **Lab 4**: Queue Management at a Grocery Store
-- **Lab 5**: Search Through a Database
-- **Lab 6**: Inheritance
+- **[Lab 5]([url](https://github.com/kylie-ng/ece244/tree/main/lab5))**: Search Through a Database
+- **[Lab 6]([url](https://github.com/kylie-ng/ece244/tree/main/lab6))**: Inheritance
