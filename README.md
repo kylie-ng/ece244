@@ -1,5 +1,8 @@
 # ece244 - All Labs from ECE244 Programming Fundamentals in C++
-Welcome to the `ece244` repository! The ECE244 course offered by University of Toronto's Faculty of Applied Science &amp; Engineering in Fall 2024 provides a foundation in programming using an object-oriented programming language. Topics include: classes and objects, inheritance, exception handling, basic data structures (linked lists, binary trees, and hash tables), big-O complexity analysis, testing, and debugging. The laboratory assignments emphasize the use of object-oriented programming constructs in the design and implementation of reasonably large programs.
+ - ECE244 course offered by University of Toronto's Faculty of Applied Science &amp; Engineering in Fall 2024
+ - Provides a foundation in programming using an object-oriented programming language.
+ - Topics include: classes and objects, inheritance, exception handling, basic data structures (linked lists, binary trees, and hash tables), big-O complexity analysis, testing, and debugging.
+ - The laboratory assignments emphasize the use of object-oriented programming constructs in the design and implementation of reasonably large programs.
 
 ## Labs Overview
 - **Lab 1**: Introduction to C++ Programming Environment
