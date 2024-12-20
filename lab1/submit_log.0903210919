@@ -1,0 +1,10 @@
+Submitting assignment 1 from remote.ecf.utoronto.ca
+Checking for the expected files in the current directory
+hello.cpp convert.cpp harmonic.cpp
+cannot find file hello.cppcannot find file convert.cppcannot find file harmonic.cpp
+Error: cannot find all expected files in the current directory.
+Please make sure all necessary files are in the current directory. Also, 
+check that the file names are correct, including capitalization.
+
+No files were submitted
+
