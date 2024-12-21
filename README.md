@@ -8,6 +8,6 @@
 - **[Lab 1](https://github.com/kylie-ng/ece244/tree/main/lab1)**: Introduction to C++ Programming Environment
 - **[Lab 2](https://github.com/kylie-ng/ece244/tree/main/lab2)**: The Pong Game
 - **[Lab 3](https://github.com/kylie-ng/ece244/tree/main/lab3)**: The Resistor Network Program
-- **Lab 4**: Queue Management at a Grocery Store
+- **[Lab 4](https://github.com/kylie-ng/ece244/tree/main/lab4)**: Queue Management at a Grocery Store
 - **[Lab 5](https://github.com/kylie-ng/ece244/tree/main/lab5)**: Search Through a Database
 - **[Lab 6](https://github.com/kylie-ng/ece244/tree/main/lab6)**: Inheritance
